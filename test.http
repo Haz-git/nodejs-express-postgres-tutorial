@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/tutorials HTTP/1.1
+content-type: application/json
+
+{
+    "title": "Node Tutorial #1",
+    "description": "Tutorial 1 to test first post request"
+}
+
+###
+
